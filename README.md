@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not knowing Java, but having experience with C++ and Python, I can see a lot of similarities.
 
 ## License
 
